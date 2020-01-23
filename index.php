@@ -1,0 +1,1 @@
+<?php header( 'Location: /bivariate_jobs_and_cost.html' ) ;  ?>
